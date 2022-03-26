@@ -1,0 +1,87 @@
+<mjml>
+
+  <mj-head>
+    <mj-raw>
+      <meta name="color-scheme" content="light">
+      <meta name="supported-color-schemes" content="light">
+    </mj-raw>
+    <mj-title>My First HTML Email</mj-title>
+  </mj-head>
+
+  <mj-body>
+    <mj-section background-color="#021E05" padding="10px">
+      <mj-column>
+        <mj-image width="160px" src="https://i.ibb.co/hc2gYbb/DSLogo.png" alt="DSLogo" />
+        <mj-divider width="90%" border-width="1px" border-color="#7B407A" />
+        <mj-text align="center" color="#ffffff" font-weight="bold" font-size="13px"> HAPPY ST. PATRICKS DAY </mj-text>
+        <mj-text line-height="37px" align="center" color="#ffffff" font-weight="bold" font-size="25px"> Any 100 images <br>
+          for just <span style="color:#7ACF30; text-decoration: line-through; "> $299</span> $100 </mj-text>
+        <mj-text line-height="18px" align="center" color="#ffffff" font-size="12px">Select any content type and save big <br>
+          Stock up on 100 files for the whole year.</mj-text>
+        <mj-button width="180px" background-color="#E43020">Buy Now</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#021E05" padding="20px 20px 0 20px">
+
+      <mj-column width="48%" background-color="#1A440E" padding="10px 0" border-radius="10px">
+        <mj-image width="35px" src="https://i.ibb.co/cxxYTD2/vid1231.png" alt="video icon" />
+        <mj-text line-height="20px" align="center" color="#ffffff" font-weight="bold" font-size="16px"> 30% off on video </mj-text>
+        <mj-text line-height="18px" align="center" color="#ffffff" font-size="12px"> Get 1—25 downloads for one month or one year.</mj-text>
+        <mj-button background-color="#E43020">Buy Now</mj-button>
+      </mj-column>
+
+      <mj-column width="4%" padding="20px"></mj-column>
+
+      <mj-column width="48%" padding="10px 0" background-color="#1A440E" border-radius="10px">
+        <mj-image width="35px" src="https://i.ibb.co/1MBYFd6/music133.png" alt="video icon" />
+        <mj-text line-height="20px" align="center" color="#ffffff" font-weight="bold" font-size="16px"> 30% off on music & SFX</mj-text>
+        <mj-text line-height="18px" align="center" color="#ffffff" font-size="12px"> Choose a monthly or yearly unlimited plan. </mj-text>
+        <mj-button background-color="#E43020">Buy Now</mj-button>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section background-color="#021E05" padding-bottom="30px">
+      <mj-column>
+        <mj-text align="center" padding="20px 20px" color="#ffffff" font-size="13px" line-height="19px">
+          St. Patrick's Day is approaching, so here are three gifts for you. Hurry up and claim <br> a plan at a discounted price. Note that this offer excludes our Flexible Plan on images.
+        </mj-text>
+        <mj-text align="center" padding="0 20px" color="#ffffff" font-size="12px" line-height="16px">
+          Offer is available for individual use only. <br>
+          The discount is valid for your first purchase <br>
+          The offer ends: 03/31/2022
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#021E05" padding="0">
+      <mj-column>
+        <mj-image padding="0" src="https://i.ibb.co/Jc0Vqys/bg753.png" alt="BG IMG" />
+      </mj-column>
+    </mj-section>
+
+
+
+
+    <mj-section background-color='#0C0D0F' padding="0">
+      <mj-column>
+        <mj-image padding-top="30px" width="160px" src="https://i.ibb.co/hc2gYbb/DSLogo.png" alt="DSLogo" />
+        <mj-text align="center" padding="30px 20px">
+          <a style="color:#909090; font-size:12px; line-height:20px; padding-right:10px;" href="https://example.com"> View this letter in your browser</a>
+          <a style="color:#909090; font-size:12px; line-height:20px; padding-right:10px;" href="https://example.com"> Need Help?</a>
+          <a style="color:#909090; font-size:12px; line-height:20px; padding-right:10px;" href="https://example.com"> Legal Information </a> <br>
+          <a style="color:#909090; font-size:12px; line-height:20px; padding-right:10px;" href="https://example.com"> Subscription Preference Center </a>
+        </mj-text>
+        <mj-divider padding="0" width="90%" border-width="1px" border-color="#909090" />
+        <mj-text padding-bottom="30px" line-height="18px" align="center" color="#909090" font-size="11px">
+          This email was sent to <span style="font-weight:bold; "> sidhantsuvagiya@gmail.com. </span><br>
+          © 2009-2022. Depositphotos, Inc. USA. All Rights Reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
